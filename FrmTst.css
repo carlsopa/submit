@@ -1,0 +1,31 @@
+#TitleBar {
+
+}
+#WeatherWidget {
+  border: solid clear;
+  border-radius: .5em;
+  background-color: rebeccapurple;
+  position: absolute;
+  right: 100px;
+  top: 0px;
+
+}
+#BusWidget {
+  border: 5px solid clear;
+  border-radius: .5em;
+  /*width: 20%;*/
+  background: rebeccapurple;
+  position: absolute;
+  right: 100px;
+  top: 100px;
+
+}
+#Menu {
+
+}
+.LastChance{
+  background-color: red;
+}
+.GetReady{
+  background-color: yellow;
+}
